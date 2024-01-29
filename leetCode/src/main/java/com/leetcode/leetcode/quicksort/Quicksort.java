@@ -1,4 +1,4 @@
-package com.leetcode.leetcode;
+package com.leetcode.leetcode.quicksort;
 
 import java.util.ArrayList;
 import java.util.Arrays;
