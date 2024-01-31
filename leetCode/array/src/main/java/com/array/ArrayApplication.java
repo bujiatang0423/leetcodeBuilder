@@ -1,13 +1,13 @@
-package com.leetcode.leetcode;
+package com.array;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class LeetCodeApplication {
+public class ArrayApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(LeetCodeApplication.class, args);
+        SpringApplication.run(ArrayApplication.class, args);
     }
 
 }
