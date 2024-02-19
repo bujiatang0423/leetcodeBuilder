@@ -1,4 +1,4 @@
-package com.array.remove_duplicates_from_sorted_array;
+package com.array;
 
 import java.util.*;
 

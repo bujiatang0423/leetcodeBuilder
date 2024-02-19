@@ -1,4 +1,4 @@
-package com.array.two_sum;
+package com.array;
 
 /**
  * 1.31号一刷
