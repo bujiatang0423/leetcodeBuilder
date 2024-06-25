@@ -13,7 +13,7 @@ public class binarySearch {
 
         while (left<right){
             if (nums[mind]<target){
-                left = mind;
+                left = mind+1;
             }else  if (nums[mind]>target){
                 right = mind;
             }else {

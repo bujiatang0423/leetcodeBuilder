@@ -1,7 +1,5 @@
 package com.array;
 
-import org.yaml.snakeyaml.util.ArrayUtils;
-
 public class Merge_Sorted_Array {
 
     /**
